@@ -1,0 +1,63 @@
+{
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "aicodehelper.gptkey": "****",
+  "aicodehelper.language": "Korean",
+  "prettier.jsxSingleQuote": true,
+  "tabnine.experimentalAutoImports": true,
+  "editor.linkedEditing": true,
+  "liveServer.settings.CustomBrowser": "chrome",
+  "workbench.editorAssociations": {
+    "*.pyc": "default",
+    "*.html": "default"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "diffEditor.wordWrap": "off",
+  "workbench.colorTheme": "Community Material Theme Darker High Contrast",
+  "material-icon-theme.files.associations": {},
+  "material-icon-theme.languages.associations": {},
+  "editor.fontFamily": "D2Coding ligature, Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.tokenColorCustomizations": {
+    "comments": "#00FF7F"
+  },
+  "editor.formatOnType": true,
+  "files.associations": {
+    "*html": "html"
+  },
+  "dart.onlyAnalyzeProjectsWithOpenFiles": true,
+  "dart.sdkPath": "D:/tools/flutter/bin/cache/dart-sdk/bin",
+  "enableTelemetry": true,
+  "errorLens.excludeBySource": ["dart(missing_identifier)"],
+  "errorLens.lintFilePaths": {
+    "eslint": ["**/*.eslintrc.{js,cjs,yaml,yml,json}", "**/*package.json"],
+    "Stylelint": [
+      "**/*.stylelintrc",
+      "**/*.stylelintrc.{cjs,js,json,yaml,yml}",
+      "**/*stylelint.config.{cjs,js}",
+      "**/*package.json"
+    ]
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnSave": true,
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+  "dart.customDevTools": {},
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": false
+  },
+  "editor.bracketPairColorization.enabled": true,
+  "editor.stickyScroll.enabled": true,
+  "dart.previewFlutterUiGuides": true,
+  "dart.previewFlutterUiGuidesCustomTracking": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  }
+}
